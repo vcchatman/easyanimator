@@ -1,0 +1,26 @@
+<svg width="860" height="860" xmlns="http://www.w3.org/2000/svg">
+<rect>
+<animate id="base" begin="0;base.end" dur="10000.0ms" attributeName="visibility" from="hide" to="hide"/>
+</rect>
+
+<rect id="R" x="200" y="200" width="50" height="100" fill= "rgb(255,0,0)" visibility="visible">
+<animate id="R" attributeType="xml" begin="base.begin+70000ms" dur="3000ms" attributeName="x" from="300" to="200" fill="freeze" />
+<animate id="R" attributeType="xml" begin="base.begin+70000ms" dur="3000ms" attributeName="y" from="300" to="200" fill="freeze" />
+<animate id="R" attributeType="xml"begin="base.begin+51000ms" dur="1900ms" attributeName=width from="50" to="25" fill="freeze" />
+<animate id="R" attributeType="xml"begin="base.begin+51000ms" dur="1900ms" attributeName=width from="100" to="100" fill="freeze" />
+<animate id="R" attributeType="xml" begin="base.begin+50000ms" dur="100ms" attributeName="x" from="300" to="300" fill="freeze" />
+<animate id="R" attributeType="xml" begin="base.begin+50000ms" dur="100ms" attributeName="y" from="300" to="300" fill="freeze" />
+<animate id="R" attributeType="xml" begin="base.begin+10000ms" dur="4000ms" attributeName="x" from="200" to="300" fill="freeze" />
+<animate id="R" attributeType="xml" begin="base.begin+10000ms" dur="4000ms" attributeName="y" from="200" to="300" fill="freeze" />
+</rect>
+
+<ellipse id="C" cx="440" cy="70" rx="120" ry="60" fill= "rgb(0,0,255)" visibility="visible">
+<animate id="C" attributeType="xml" begin="base.begin+80000ms" dur="2000ms" attributeName="cx" from="440" to="440" fill="freeze" />
+<animate id="C" attributeType="xml" begin="base.begin+80000ms" dur="2000ms" attributeName="cy" from="370" to="370" fill="freeze" />
+<animate id="C" attributeType="xml" begin="base.begin+50000ms" dur="2000ms" attributeName="cx" from="440" to="440" fill="freeze" />
+<animate id="C" attributeType="xml" begin="base.begin+50000ms" dur="2000ms" attributeName="cy" from="250" to="370" fill="freeze" />
+<animate id="C" attributeType="xml" begin="base.begin+20000ms" dur="3000ms" attributeName="cx" from="440" to="440" fill="freeze" />
+<animate id="C" attributeType="xml" begin="base.begin+20000ms" dur="3000ms" attributeName="cy" from="70" to="250" fill="freeze" />
+</ellipse>
+
+</svg>

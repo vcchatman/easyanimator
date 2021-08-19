@@ -1,0 +1,412 @@
+Create shape background with corner at (0, 0), width=800 and height=800
+background appears at time t=1 and disappears at time t=200
+
+Create shape B0 with corner at (80, 424), width=100 and height=326
+B0 appears at time t=1 and disappears at time t=200
+
+Create shape B1 with corner at (260, 365), width=100 and height=385
+B1 appears at time t=1 and disappears at time t=200
+
+Create shape B2 with corner at (440, 375), width=100 and height=375
+B2 appears at time t=1 and disappears at time t=200
+
+Create shape B3 with corner at (620, 445), width=100 and height=305
+B3 appears at time t=1 and disappears at time t=200
+
+Create shape window000 with corner at (100, 850), width=20 and height=20
+window000 appears at time t=1 and disappears at time t=200
+
+Create shape window001 with corner at (140, 850), width=20 and height=20
+window001 appears at time t=1 and disappears at time t=200
+
+Create shape window010 with corner at (100, 890), width=20 and height=20
+window010 appears at time t=1 and disappears at time t=200
+
+Create shape window011 with corner at (140, 890), width=20 and height=20
+window011 appears at time t=1 and disappears at time t=200
+
+Create shape window020 with corner at (100, 930), width=20 and height=20
+window020 appears at time t=1 and disappears at time t=200
+
+Create shape window021 with corner at (140, 930), width=20 and height=20
+window021 appears at time t=1 and disappears at time t=200
+
+Create shape window030 with corner at (100, 970), width=20 and height=20
+window030 appears at time t=1 and disappears at time t=200
+
+Create shape window031 with corner at (140, 970), width=20 and height=20
+window031 appears at time t=1 and disappears at time t=200
+
+Create shape window040 with corner at (100, 1010), width=20 and height=20
+window040 appears at time t=1 and disappears at time t=200
+
+Create shape window041 with corner at (140, 1010), width=20 and height=20
+window041 appears at time t=1 and disappears at time t=200
+
+Create shape window050 with corner at (100, 1050), width=20 and height=20
+window050 appears at time t=1 and disappears at time t=200
+
+Create shape window051 with corner at (140, 1050), width=20 and height=20
+window051 appears at time t=1 and disappears at time t=200
+
+Create shape window060 with corner at (100, 1090), width=20 and height=20
+window060 appears at time t=1 and disappears at time t=200
+
+Create shape window061 with corner at (140, 1090), width=20 and height=20
+window061 appears at time t=1 and disappears at time t=200
+
+Create shape window100 with corner at (280, -750), width=20 and height=20
+window100 appears at time t=1 and disappears at time t=200
+
+Create shape window101 with corner at (320, -750), width=20 and height=20
+window101 appears at time t=1 and disappears at time t=200
+
+Create shape window110 with corner at (280, -710), width=20 and height=20
+window110 appears at time t=1 and disappears at time t=200
+
+Create shape window111 with corner at (320, -710), width=20 and height=20
+window111 appears at time t=1 and disappears at time t=200
+
+Create shape window120 with corner at (280, -670), width=20 and height=20
+window120 appears at time t=1 and disappears at time t=200
+
+Create shape window121 with corner at (320, -670), width=20 and height=20
+window121 appears at time t=1 and disappears at time t=200
+
+Create shape window130 with corner at (280, -630), width=20 and height=20
+window130 appears at time t=1 and disappears at time t=200
+
+Create shape window131 with corner at (320, -630), width=20 and height=20
+window131 appears at time t=1 and disappears at time t=200
+
+Create shape window140 with corner at (280, -590), width=20 and height=20
+window140 appears at time t=1 and disappears at time t=200
+
+Create shape window141 with corner at (320, -590), width=20 and height=20
+window141 appears at time t=1 and disappears at time t=200
+
+Create shape window150 with corner at (280, -550), width=20 and height=20
+window150 appears at time t=1 and disappears at time t=200
+
+Create shape window151 with corner at (320, -550), width=20 and height=20
+window151 appears at time t=1 and disappears at time t=200
+
+Create shape window160 with corner at (280, -510), width=20 and height=20
+window160 appears at time t=1 and disappears at time t=200
+
+Create shape window161 with corner at (320, -510), width=20 and height=20
+window161 appears at time t=1 and disappears at time t=200
+
+Create shape window170 with corner at (280, -470), width=20 and height=20
+window170 appears at time t=1 and disappears at time t=200
+
+Create shape window171 with corner at (320, -470), width=20 and height=20
+window171 appears at time t=1 and disappears at time t=200
+
+Create shape window180 with corner at (280, -430), width=20 and height=20
+window180 appears at time t=1 and disappears at time t=200
+
+Create shape window181 with corner at (320, -430), width=20 and height=20
+window181 appears at time t=1 and disappears at time t=200
+
+Create shape window200 with corner at (460, 850), width=20 and height=20
+window200 appears at time t=1 and disappears at time t=200
+
+Create shape window201 with corner at (500, 850), width=20 and height=20
+window201 appears at time t=1 and disappears at time t=200
+
+Create shape window210 with corner at (460, 890), width=20 and height=20
+window210 appears at time t=1 and disappears at time t=200
+
+Create shape window211 with corner at (500, 890), width=20 and height=20
+window211 appears at time t=1 and disappears at time t=200
+
+Create shape window220 with corner at (460, 930), width=20 and height=20
+window220 appears at time t=1 and disappears at time t=200
+
+Create shape window221 with corner at (500, 930), width=20 and height=20
+window221 appears at time t=1 and disappears at time t=200
+
+Create shape window230 with corner at (460, 970), width=20 and height=20
+window230 appears at time t=1 and disappears at time t=200
+
+Create shape window231 with corner at (500, 970), width=20 and height=20
+window231 appears at time t=1 and disappears at time t=200
+
+Create shape window240 with corner at (460, 1010), width=20 and height=20
+window240 appears at time t=1 and disappears at time t=200
+
+Create shape window241 with corner at (500, 1010), width=20 and height=20
+window241 appears at time t=1 and disappears at time t=200
+
+Create shape window250 with corner at (460, 1050), width=20 and height=20
+window250 appears at time t=1 and disappears at time t=200
+
+Create shape window251 with corner at (500, 1050), width=20 and height=20
+window251 appears at time t=1 and disappears at time t=200
+
+Create shape window260 with corner at (460, 1090), width=20 and height=20
+window260 appears at time t=1 and disappears at time t=200
+
+Create shape window261 with corner at (500, 1090), width=20 and height=20
+window261 appears at time t=1 and disappears at time t=200
+
+Create shape window270 with corner at (460, 1130), width=20 and height=20
+window270 appears at time t=1 and disappears at time t=200
+
+Create shape window271 with corner at (500, 1130), width=20 and height=20
+window271 appears at time t=1 and disappears at time t=200
+
+Create shape window300 with corner at (640, -750), width=20 and height=20
+window300 appears at time t=1 and disappears at time t=200
+
+Create shape window301 with corner at (680, -750), width=20 and height=20
+window301 appears at time t=1 and disappears at time t=200
+
+Create shape window310 with corner at (640, -710), width=20 and height=20
+window310 appears at time t=1 and disappears at time t=200
+
+Create shape window311 with corner at (680, -710), width=20 and height=20
+window311 appears at time t=1 and disappears at time t=200
+
+Create shape window320 with corner at (640, -670), width=20 and height=20
+window320 appears at time t=1 and disappears at time t=200
+
+Create shape window321 with corner at (680, -670), width=20 and height=20
+window321 appears at time t=1 and disappears at time t=200
+
+Create shape window330 with corner at (640, -630), width=20 and height=20
+window330 appears at time t=1 and disappears at time t=200
+
+Create shape window331 with corner at (680, -630), width=20 and height=20
+window331 appears at time t=1 and disappears at time t=200
+
+Create shape window340 with corner at (640, -590), width=20 and height=20
+window340 appears at time t=1 and disappears at time t=200
+
+Create shape window341 with corner at (680, -590), width=20 and height=20
+window341 appears at time t=1 and disappears at time t=200
+
+Create shape window350 with corner at (640, -550), width=20 and height=20
+window350 appears at time t=1 and disappears at time t=200
+
+Create shape window351 with corner at (680, -550), width=20 and height=20
+window351 appears at time t=1 and disappears at time t=200
+
+Create shape window360 with corner at (640, -510), width=20 and height=20
+window360 appears at time t=1 and disappears at time t=200
+
+Create shape window361 with corner at (680, -510), width=20 and height=20
+window361 appears at time t=1 and disappears at time t=200
+
+Create shape moon with corner at (200, 200), width=100 and height=100
+moon appears at time t=1 and disappears at time t=200
+
+Create shape eclipse with corner at (400, 0), width=100 and height=100
+eclipse appears at time t=1 and disappears at time t=200
+
+Create shape star0 with corner at (223, 66), width=6 and height=6
+star0 appears at time t=108 and disappears at time t=200
+
+Create shape star1 with corner at (585, 211), width=6 and height=6
+star1 appears at time t=120 and disappears at time t=200
+
+Create shape star2 with corner at (489, 77), width=6 and height=6
+star2 appears at time t=110 and disappears at time t=200
+
+Create shape star3 with corner at (374, 286), width=6 and height=6
+star3 appears at time t=93 and disappears at time t=200
+
+Create shape star4 with corner at (708, 281), width=6 and height=6
+star4 appears at time t=83 and disappears at time t=200
+
+Create shape star5 with corner at (508, 260), width=6 and height=6
+star5 appears at time t=97 and disappears at time t=200
+
+Create shape star6 with corner at (529, 70), width=6 and height=6
+star6 appears at time t=92 and disappears at time t=200
+
+Create shape star7 with corner at (332, 65), width=6 and height=6
+star7 appears at time t=117 and disappears at time t=200
+
+Create shape star8 with corner at (311, 147), width=6 and height=6
+star8 appears at time t=86 and disappears at time t=200
+
+Create shape star9 with corner at (170, 281), width=6 and height=6
+star9 appears at time t=88 and disappears at time t=200
+
+Create shape star10 with corner at (719, 102), width=6 and height=6
+star10 appears at time t=90 and disappears at time t=200
+
+Create shape star11 with corner at (524, 264), width=6 and height=6
+star11 appears at time t=129 and disappears at time t=200
+
+Create shape star12 with corner at (768, 194), width=6 and height=6
+star12 appears at time t=86 and disappears at time t=200
+
+Create shape star13 with corner at (766, 179), width=6 and height=6
+star13 appears at time t=113 and disappears at time t=200
+
+Create shape star14 with corner at (510, 78), width=6 and height=6
+star14 appears at time t=98 and disappears at time t=200
+
+Create shape star15 with corner at (621, 149), width=6 and height=6
+star15 appears at time t=114 and disappears at time t=200
+
+Create shape star16 with corner at (491, 252), width=6 and height=6
+star16 appears at time t=106 and disappears at time t=200
+
+Create shape star17 with corner at (405, 63), width=6 and height=6
+star17 appears at time t=89 and disappears at time t=200
+
+Create shape star18 with corner at (550, 267), width=6 and height=6
+star18 appears at time t=113 and disappears at time t=200
+
+Create shape star19 with corner at (108, 197), width=6 and height=6
+star19 appears at time t=94 and disappears at time t=200
+
+Create shape star20 with corner at (737, 78), width=6 and height=6
+star20 appears at time t=103 and disappears at time t=200
+
+Create shape star21 with corner at (795, 137), width=6 and height=6
+star21 appears at time t=126 and disappears at time t=200
+
+Create shape star22 with corner at (184, 125), width=6 and height=6
+star22 appears at time t=89 and disappears at time t=200
+
+Create shape star23 with corner at (134, 230), width=6 and height=6
+star23 appears at time t=96 and disappears at time t=200
+
+Create shape star24 with corner at (244, 153), width=6 and height=6
+star24 appears at time t=120 and disappears at time t=200
+
+Create shape star25 with corner at (259, 119), width=6 and height=6
+star25 appears at time t=112 and disappears at time t=200
+
+Create shape star26 with corner at (322, 269), width=6 and height=6
+star26 appears at time t=106 and disappears at time t=200
+
+Create shape star27 with corner at (412, 182), width=6 and height=6
+star27 appears at time t=117 and disappears at time t=200
+
+Create shape star28 with corner at (674, 137), width=6 and height=6
+star28 appears at time t=119 and disappears at time t=200
+
+Create shape star29 with corner at (46, 246), width=6 and height=6
+star29 appears at time t=96 and disappears at time t=200
+
+Create shape star30 with corner at (388, 315), width=6 and height=6
+star30 appears at time t=123 and disappears at time t=200
+
+Create shape star31 with corner at (185, 236), width=6 and height=6
+star31 appears at time t=121 and disappears at time t=200
+
+Create shape star32 with corner at (550, 232), width=6 and height=6
+star32 appears at time t=109 and disappears at time t=200
+
+Create shape star33 with corner at (656, 101), width=6 and height=6
+star33 appears at time t=94 and disappears at time t=200
+
+Create shape star34 with corner at (283, 111), width=6 and height=6
+star34 appears at time t=84 and disappears at time t=200
+
+Create shape star35 with corner at (649, 326), width=6 and height=6
+star35 appears at time t=92 and disappears at time t=200
+
+Create shape star36 with corner at (691, 267), width=6 and height=6
+star36 appears at time t=115 and disappears at time t=200
+
+Create shape star37 with corner at (113, 276), width=6 and height=6
+star37 appears at time t=99 and disappears at time t=200
+
+Create shape star38 with corner at (604, 302), width=6 and height=6
+star38 appears at time t=99 and disappears at time t=200
+
+Create shape star39 with corner at (462, 162), width=6 and height=6
+star39 appears at time t=127 and disappears at time t=200
+
+window000 moves from (100, 850) to (100, 710) from time 20 to 60.
+window001 moves from (140, 850) to (140, 710) from time 20 to 60.
+window010 moves from (100, 890) to (100, 670) from time 20 to 60.
+window011 moves from (140, 890) to (140, 670) from time 20 to 60.
+window020 moves from (100, 930) to (100, 630) from time 20 to 60.
+window021 moves from (140, 930) to (140, 630) from time 20 to 60.
+window030 moves from (100, 970) to (100, 590) from time 20 to 60.
+window031 moves from (140, 970) to (140, 590) from time 20 to 60.
+window040 moves from (100, 1010) to (100, 550) from time 20 to 60.
+window041 moves from (140, 1010) to (140, 550) from time 20 to 60.
+window050 moves from (100, 1050) to (100, 510) from time 20 to 60.
+window051 moves from (140, 1050) to (140, 510) from time 20 to 60.
+window060 moves from (100, 1090) to (100, 470) from time 20 to 60.
+window061 moves from (140, 1090) to (140, 470) from time 20 to 60.
+window100 moves from (280, -750) to (280, 710) from time 20 to 60.
+window101 moves from (320, -750) to (320, 710) from time 20 to 60.
+window110 moves from (280, -710) to (280, 670) from time 20 to 60.
+window111 moves from (320, -710) to (320, 670) from time 20 to 60.
+window120 moves from (280, -670) to (280, 630) from time 20 to 60.
+window121 moves from (320, -670) to (320, 630) from time 20 to 60.
+window130 moves from (280, -630) to (280, 590) from time 20 to 60.
+window131 moves from (320, -630) to (320, 590) from time 20 to 60.
+window140 moves from (280, -590) to (280, 550) from time 20 to 60.
+window141 moves from (320, -590) to (320, 550) from time 20 to 60.
+window150 moves from (280, -550) to (280, 510) from time 20 to 60.
+window151 moves from (320, -550) to (320, 510) from time 20 to 60.
+window160 moves from (280, -510) to (280, 470) from time 20 to 60.
+window161 moves from (320, -510) to (320, 470) from time 20 to 60.
+window170 moves from (280, -470) to (280, 430) from time 20 to 60.
+window171 moves from (320, -470) to (320, 430) from time 20 to 60.
+window180 moves from (280, -430) to (280, 390) from time 20 to 60.
+window181 moves from (320, -430) to (320, 390) from time 20 to 60.
+window200 moves from (460, 850) to (460, 710) from time 20 to 60.
+window201 moves from (500, 850) to (500, 710) from time 20 to 60.
+window210 moves from (460, 890) to (460, 670) from time 20 to 60.
+window211 moves from (500, 890) to (500, 670) from time 20 to 60.
+window220 moves from (460, 930) to (460, 630) from time 20 to 60.
+window221 moves from (500, 930) to (500, 630) from time 20 to 60.
+window230 moves from (460, 970) to (460, 590) from time 20 to 60.
+window231 moves from (500, 970) to (500, 590) from time 20 to 60.
+window240 moves from (460, 1010) to (460, 550) from time 20 to 60.
+window241 moves from (500, 1010) to (500, 550) from time 20 to 60.
+window250 moves from (460, 1050) to (460, 510) from time 20 to 60.
+window251 moves from (500, 1050) to (500, 510) from time 20 to 60.
+window260 moves from (460, 1090) to (460, 470) from time 20 to 60.
+window261 moves from (500, 1090) to (500, 470) from time 20 to 60.
+window270 moves from (460, 1130) to (460, 430) from time 20 to 60.
+window271 moves from (500, 1130) to (500, 430) from time 20 to 60.
+window300 moves from (640, -750) to (640, 710) from time 20 to 60.
+window301 moves from (680, -750) to (680, 710) from time 20 to 60.
+window310 moves from (640, -710) to (640, 670) from time 20 to 60.
+window311 moves from (680, -710) to (680, 670) from time 20 to 60.
+window320 moves from (640, -670) to (640, 630) from time 20 to 60.
+window321 moves from (680, -670) to (680, 630) from time 20 to 60.
+window330 moves from (640, -630) to (640, 590) from time 20 to 60.
+window331 moves from (680, -630) to (680, 590) from time 20 to 60.
+window340 moves from (640, -590) to (640, 550) from time 20 to 60.
+window341 moves from (680, -590) to (680, 550) from time 20 to 60.
+window350 moves from (640, -550) to (640, 510) from time 20 to 60.
+window351 moves from (680, -550) to (680, 510) from time 20 to 60.
+window360 moves from (640, -510) to (640, 470) from time 20 to 60.
+window361 moves from (680, -510) to (680, 470) from time 20 to 60.
+background changes color from (33, 94, 248) to (16, 45, 248) from time 50 to 90.
+eclipse moves from (400, 0) to (230, 180) from time 50 to 90.
+eclipse changes color from (33, 94, 248) to (16, 45, 248) from time 50 to 90.
+window330 changes color from (255, 255, 255) to (255, 255, 0) from time 81 to 86.
+window021 changes color from (255, 255, 255) to (255, 255, 0) from time 82 to 87.
+window210 changes color from (255, 255, 255) to (255, 255, 0) from time 83 to 88.
+window061 changes color from (255, 255, 255) to (255, 255, 0) from time 93 to 98.
+window110 changes color from (255, 255, 255) to (255, 255, 0) from time 95 to 100.
+window261 changes color from (255, 255, 255) to (255, 255, 0) from time 96 to 101.
+window151 changes color from (255, 255, 255) to (255, 255, 0) from time 99 to 104.
+window360 changes color from (255, 255, 255) to (255, 255, 0) from time 99 to 104.
+window361 changes color from (255, 255, 255) to (255, 255, 0) from time 99 to 104.
+window351 changes color from (255, 255, 255) to (255, 255, 0) from time 100 to 105.
+window310 changes color from (255, 255, 255) to (255, 255, 0) from time 103 to 108.
+window101 changes color from (255, 255, 255) to (255, 255, 0) from time 108 to 113.
+window241 changes color from (255, 255, 255) to (255, 255, 0) from time 112 to 117.
+window331 changes color from (255, 255, 255) to (255, 255, 0) from time 119 to 124.
+window200 changes color from (255, 255, 255) to (255, 255, 0) from time 127 to 132.
+window250 changes color from (255, 255, 255) to (255, 255, 0) from time 128 to 133.
+window301 changes color from (255, 255, 255) to (255, 255, 0) from time 135 to 140.
+window041 changes color from (255, 255, 255) to (255, 255, 0) from time 147 to 152.
+window060 changes color from (255, 255, 255) to (255, 255, 0) from time 147 to 152.
+window131 changes color from (255, 255, 255) to (255, 255, 0) from time 148 to 153.

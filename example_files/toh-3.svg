@@ -1,0 +1,105 @@
+<svg width="220" height="410" xmlns="http://www.w3.org/2000/svg">
+<rect>
+<animate id="base" begin="0;base.end" dur="10000.0ms" attributeName="visibility" from="hide" to="hide"/>
+</rect>
+
+<rect id="disk1" x="190" y="180" width="20" height="30" fill= "rgb(0,49,90)" visibility="visible">
+<animate id="disk1" attributeType="xml" begin="base.begin+257000ms" dur="4500ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+257000ms" dur="4500ms" attributeName="y" from="180" to="180" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+239000ms" dur="1000ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+239000ms" dur="1000ms" attributeName="y" from="50" to="180" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+238000ms" dur="100ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+238000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+228000ms" dur="1000ms" attributeName="x" from="190" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+228000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+227000ms" dur="100ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+227000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+217000ms" dur="1000ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+217000ms" dur="1000ms" attributeName="y" from="240" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+185000ms" dur="3200ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+185000ms" dur="3200ms" attributeName="y" from="240" to="240" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+175000ms" dur="1000ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+175000ms" dur="1000ms" attributeName="y" from="50" to="240" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+174000ms" dur="100ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+174000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+164000ms" dur="1000ms" attributeName="x" from="340" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+164000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+163000ms" dur="100ms" attributeName="x" from="340" to="340" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+163000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+153000ms" dur="1000ms" attributeName="x" from="340" to="340" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+153000ms" dur="1000ms" attributeName="y" from="210" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+121000ms" dur="3200ms" attributeName="x" from="340" to="340" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+121000ms" dur="3200ms" attributeName="y" from="210" to="210" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+111000ms" dur="1000ms" attributeName="x" from="340" to="340" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+111000ms" dur="1000ms" attributeName="y" from="50" to="210" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+110000ms" dur="100ms" attributeName="x" from="340" to="340" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+110000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+100000ms" dur="1000ms" attributeName="x" from="490" to="340" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+100000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+99000ms" dur="100ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+99000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+89000ms" dur="1000ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+89000ms" dur="1000ms" attributeName="y" from="240" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+57000ms" dur="3200ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+57000ms" dur="3200ms" attributeName="y" from="240" to="240" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+47000ms" dur="1000ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+47000ms" dur="1000ms" attributeName="y" from="50" to="240" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+46000ms" dur="100ms" attributeName="x" from="490" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+46000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+36000ms" dur="1000ms" attributeName="x" from="190" to="490" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+36000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+35000ms" dur="100ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+35000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+25000ms" dur="1000ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+25000ms" dur="1000ms" attributeName="y" from="180" to="50" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+1000ms" dur="2400ms" attributeName="x" from="190" to="190" fill="freeze" />
+<animate id="disk1" attributeType="xml" begin="base.begin+1000ms" dur="2400ms" attributeName="y" from="180" to="180" fill="freeze" />
+</rect>
+
+<rect id="disk2" x="167" y="210" width="65" height="30" fill= "rgb(6,247,41)" visibility="visible">
+<animate id="disk2" attributeType="xml" begin="base.begin+225000ms" dur="7700ms" attributeName="x" from="467" to="467" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+225000ms" dur="7700ms" attributeName="y" from="210" to="210" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+207000ms" dur="1000ms" attributeName="x" from="467" to="467" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+207000ms" dur="1000ms" attributeName="y" from="50" to="210" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+206000ms" dur="100ms" attributeName="x" from="467" to="467" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+206000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+196000ms" dur="1000ms" attributeName="x" from="317" to="467" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+196000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+195000ms" dur="100ms" attributeName="x" from="317" to="317" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+195000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+185000ms" dur="1000ms" attributeName="x" from="317" to="317" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+185000ms" dur="1000ms" attributeName="y" from="240" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+89000ms" dur="9600ms" attributeName="x" from="317" to="317" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+89000ms" dur="9600ms" attributeName="y" from="240" to="240" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+79000ms" dur="1000ms" attributeName="x" from="317" to="317" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+79000ms" dur="1000ms" attributeName="y" from="50" to="240" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+78000ms" dur="100ms" attributeName="x" from="317" to="317" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+78000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+68000ms" dur="1000ms" attributeName="x" from="167" to="317" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+68000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+67000ms" dur="100ms" attributeName="x" from="167" to="167" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+67000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+57000ms" dur="1000ms" attributeName="x" from="167" to="167" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+57000ms" dur="1000ms" attributeName="y" from="210" to="50" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+1000ms" dur="5600ms" attributeName="x" from="167" to="167" fill="freeze" />
+<animate id="disk2" attributeType="xml" begin="base.begin+1000ms" dur="5600ms" attributeName="y" from="210" to="210" fill="freeze" />
+</rect>
+
+<rect id="disk3" x="145" y="240" width="110" height="30" fill= "rgb(11,45,175)" visibility="visible">
+<animate id="disk3" attributeType="xml" begin="base.begin+161000ms" dur="14100ms" attributeName="x" from="445" to="445" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+161000ms" dur="14100ms" attributeName="y" from="240" to="240" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+143000ms" dur="1000ms" attributeName="x" from="445" to="445" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+143000ms" dur="1000ms" attributeName="y" from="50" to="240" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+142000ms" dur="100ms" attributeName="x" from="445" to="445" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+142000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+132000ms" dur="1000ms" attributeName="x" from="145" to="445" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+132000ms" dur="1000ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+131000ms" dur="100ms" attributeName="x" from="145" to="145" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+131000ms" dur="100ms" attributeName="y" from="50" to="50" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+121000ms" dur="1000ms" attributeName="x" from="145" to="145" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+121000ms" dur="1000ms" attributeName="y" from="240" to="50" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+1000ms" dur="12000ms" attributeName="x" from="145" to="145" fill="freeze" />
+<animate id="disk3" attributeType="xml" begin="base.begin+1000ms" dur="12000ms" attributeName="y" from="240" to="240" fill="freeze" />
+</rect>
+
+</svg>
